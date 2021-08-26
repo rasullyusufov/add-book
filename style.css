@@ -1,0 +1,12 @@
+.containerMine {
+  margin-inline: auto;
+  width: min(70%, 50rem);
+}
+footer {
+  margin-top: 150px;
+  margin-left: 45%;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
